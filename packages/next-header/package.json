@@ -1,0 +1,21 @@
+{
+  "name": "@lerna-project/next-header",
+  "version": "2.0.0",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/next-header.umd.js",
+  "module": "fesm5/next-header.js",
+  "es2015": "fesm2015/next-header.js",
+  "esm5": "esm5/next-header.js",
+  "esm2015": "esm2015/next-header.js",
+  "fesm5": "fesm5/next-header.js",
+  "fesm2015": "fesm2015/next-header.js",
+  "typings": "next-header.d.ts",
+  "metadata": "next-header.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

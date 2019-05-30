@@ -1,0 +1,22 @@
+{
+  "name": "@lerna-project/next-checkbox",
+  "version": "2.0.0",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "@angular/forms": "^7.2.7"
+  },
+  "main": "bundles/next-checkbox.umd.js",
+  "module": "fesm5/next-checkbox.js",
+  "es2015": "fesm2015/next-checkbox.js",
+  "esm5": "esm5/next-checkbox.js",
+  "esm2015": "esm2015/next-checkbox.js",
+  "fesm5": "fesm5/next-checkbox.js",
+  "fesm2015": "fesm2015/next-checkbox.js",
+  "typings": "next-checkbox.d.ts",
+  "metadata": "next-checkbox.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
